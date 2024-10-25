@@ -3,4 +3,4 @@ https://github.com/maryanvika123/23CSBTB29/blob/main/Untitled3.ipynb
 https://github.com/maryanvika123/23CSBTB29/blob/main/Untitled4.ipynb
 https://github.com/maryanvika123/23CSBTB29/edit/main/README.md
 https://github.com/maryanvika123/23CSBTB29/edit/main/README.md
-
+https://github.com/maryanvika123/23CSBTB29/blob/main/untitled6.ipynb
